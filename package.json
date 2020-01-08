@@ -1,0 +1,16 @@
+{
+  "name": "remindabot",
+  "version": "0.0.1",
+  "description": "Set Reminders",
+  "main": "node main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "razveck",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "express": "^4.17.1",
+    "node-schedule": "^1.3.2"
+  }
+}
